@@ -27,3 +27,13 @@ NBC_Jacket_MyDayZ_Black
 NBC_Pants_MyDayZ_Black
 NBC_Boots_MyDayZ_Black
 NBC_Hood_MyDayZ_Black
+NBC_Gloves_MyDayZ_Yellow
+NBC_Jacket_MyDayZ_Yellow
+NBC_Pants_MyDayZ_Yellow
+NBC_Boots_MyDayZ_Yellow
+NBC_Hood_MyDayZ_Yellow
+RP_Blouse_White
+pressvest_md_police_black_co
+HighCapacityVest_MD_Police
+
+
