@@ -1,39 +1,69 @@
-sweater_md_chalkstone_co
-sweater_md_loden_co
-sweater_md_navy_co
-Hoodie_md_black_co
-hoodie_md_blue_co
-Hoodie_md_brown_co
-Hoodie_md_green_co
-Hoodie_md_grey_co
-armbends_md_black_co
-armbends_md_pink_co
-armbends_md_blue_co
-armbends_md_co
-armbends_md_green_co
-armbends_md_red_co
-armbends_md_white_co
-armbends_md_yellow_co
-armbends_md_medic_white_co.
-helmetmich_md_bk_co
-M65_Jacket_md_black_co
-M65_Jacket_md_tan_co
-policevest_md_medic_co
-pressvest_md_black_co
+CZ527_MyDayZ_Black,		W,		2400,	1200
+CZ527_MyDayZ_Green,		W,		2400,	1200
+SKS_MyDayZ_Black,		W,		2400,	1200
+SKS_MyDayZ_Green,		W,		2400,	1200
+SKS_MyDayZ,				W,		2400,	1200
+Mosin_MyDayZ_Black,		W,		600,	200
+Mosin_MyDayZ,			W,		600,	200
+Mosin_MyDayZ_Green,		W,		600,	200
+M4A1_MyDayZ_Black,		W,		1750,	750
+M4A1_MyDayZ_green,		W,		1750,	750
+AKM_MyDayZ_Green,		W,		1500,	750
+AK101_MyDayZ_Black,		W,		1750,	750
 
+FieldPants_Camo1,			*,		130,40
+HighCapacityVest_Camo1,		*,		700,220
+M65_Jacket_Camo1,			*,		130,40
+BallisticHelmet_Camo1,		*,		350,110
 
-NBC_Gloves_MyDayZ_Black
-NBC_Jacket_MyDayZ_Black
-NBC_Pants_MyDayZ_Black
-NBC_Boots_MyDayZ_Black
-NBC_Hood_MyDayZ_Black
-NBC_Gloves_MyDayZ_Yellow
-NBC_Jacket_MyDayZ_Yellow
-NBC_Pants_MyDayZ_Yellow
-NBC_Boots_MyDayZ_Yellow
-NBC_Hood_MyDayZ_Yellow
-RP_Blouse_White
-pressvest_md_police_black_co
-HighCapacityVest_MD_Police
+FieldPants_Camo2,			*,		130,40
+HighCapacityVest_Camo2,		*,		700,220
+M65_Jacket_Camo2,			*,		130,40
+BallisticHelmet_Camo2,		*,		350,110
 
+policevest_md_camo_co,			    *,		700,220
+AliceBag_MD_Camo,			        *,		700,220
+HighCapacityVest_MD_Police,			*,		700,220
+HighCapacityVest_MD_Camo_Police,	*,		700,220
+pressvest_md_police_black_co,		*,		700,220
+policevest_md_camobis_co,			*,		700,220
 
+NBC_Hood_MyDayZ_Camo,			*,		200,40
+NBC_Hood_MyDayZ_Yellow,		    *,		200,40
+NBC_Hood_MyDayZ_Black,			*,		200,40
+NBC_Boots_MyDayZ_Camo,			*,		200,40
+NBC_Boots_MyDayZ_Yellow,		*,		200,40
+NBC_Boots_MyDayZ_Black,			*,		200,40
+NBC_Pants_MyDayZ_Camo,			*,		200,40
+NBC_Pants_MyDayZ_Yellow,		*,		200,40
+NBC_Pants_MyDayZ_Black,			*,		200,40
+NBC_Jacket_MyDayZ_Camo,	,		*,		200,40
+NBC_Jacket_MyDayZ_Yellow,		*,		200,40
+NBC_Jacket_MyDayZ_Black,		*,		200,40
+NBC_Gloves_MyDayZ_Yellow,		*,		200,40
+NBC_Gloves_MyDayZ_Black,		*,		200,40
+
+BallisticHelmet_Medic,		    *,		350,110
+policevest_md_medic_co,			*,		700,220
+pressvest_md_medic_black_co,	*,		700,220
+armbends_md_medic_white_co,		*,		15,	5
+M65_Jacket_md_medic_black_co,	*,		130,40
+M65_Jacket_md_medic_tan_co,		*,		130,40
+
+armbends_md_yellow_co,		*,		15,	5
+armbends_md_white_co,		*,		15,	5
+armbends_md_red_co,	    	*,		15,	5
+armbends_md_green_co,		*,		15,	5
+armbends_md_co,	        	*,		15,	5
+armbends_md_blue_co,		*,		15,	5
+armbends_md_pink_co,		*,		15,	5
+armbends_md_black_co,		*,		15,	5
+
+Hoodie_md_grey_co,		    	*,		30,		6
+Hoodie_md_green_co,		    	*,		30,		6
+Hoodie_md_brown_co,		    	*,		30,		6
+hoodie_md_blue_co,		    	*,		30,		6
+Hoodie_md_black_co,		    	*,		30,		6
+sweater_md_navy_co,		    	*,		15,		6
+sweater_md_loden_co,		    *,		15,		6
+sweater_md_chalkstone_co,		*,		15,		6
